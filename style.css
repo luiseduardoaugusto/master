@@ -72,12 +72,12 @@ padding-left: 0px;
 
 .list-inline i {
     font-size: 3em;
-    padding: 20px;
+    padding: 10px;
     color: blueviolet;
 }
 
 .list-inline i:hover {
-    color:rgb(165, 112, 112)
+    color:black
 }
 
 
