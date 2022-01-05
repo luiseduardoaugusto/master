@@ -55,10 +55,29 @@ a {
 }
 
 li {
+  display: inline-block;
   text-decoration: none;
   list-style: none;
-  display: inline-block;
   font-size: 3em;
+}
+
+
+.list-inline li {
+    display: inline;
+}
+
+.list-inline {
+padding-left: 0px;
+}
+
+.list-inline i {
+    font-size: 40px;
+    padding: 15px;
+    color: rgb(21, 44, 114);
+}
+
+.list-inline i:hover {
+    color:rgb(165, 112, 112)
 }
 
 
