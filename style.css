@@ -54,13 +54,13 @@ a {
   color: inherit;
 }
 
-li {
+/* li {
   display: inline-block;
   text-decoration: none;
   list-style: none;
   font-size: 3em;
 }
-
+ */
 
 .list-inline li {
     display: inline;
